@@ -11,8 +11,11 @@ body{
 	background-color: rgb(280,250,40);
 	color:black;
 	font-weight: 20;
-	position: relative;
 	left: 300px;
+	position: absolute;
+	top:0;
+	right :0;
+	
 
 }
 
@@ -34,6 +37,7 @@ p{
  		border: 1px solid black;
  		color: rgb(217,55,20);
  		background-color: rgb(2, 51, 109);
+ 		position: relative;
 
  	}
  }
@@ -44,6 +48,7 @@ p{
 		float: left;
 		color: rgb(217,55,20);
  		background-color: rgb(2, 51, 109);
+ 		position:relative;
 
 	}
 	.col-md-12{
@@ -51,5 +56,6 @@ p{
 		float: left;
 		color: rgb(217,55,20);
  		background-color: rgb(2, 51, 109);
+ 		position:relative;
 	}
 } 
