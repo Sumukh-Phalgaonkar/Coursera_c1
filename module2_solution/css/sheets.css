@@ -7,9 +7,7 @@ body{
 	text-align:center;
 }
 .dish{
-	position: absolute;
-	top: 0;
-	right:0;
+	
 	background-color: rgb(280,20,40);
 
 }
