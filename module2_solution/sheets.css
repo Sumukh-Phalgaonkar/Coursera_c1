@@ -7,10 +7,10 @@ body{
 	text-align:center;
 }
 .dish{
-	position: absolute;
-	top: 0;
-	right:0;
+	text-align: right; 
 	background-color: rgb(280,20,40);
+	color:black;
+	font-weight: 20;
 
 }
 
