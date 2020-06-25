@@ -19,9 +19,10 @@ body{
 	background-color: rgb(280,250,40);
 	color:black;
 	font-weight: 40;
-	font-size: x-large;
+	font-size: 30px;
 	left: 300px;
 	float:right;
+	border: 2px solid black;
 
 	
 
@@ -48,9 +49,10 @@ p{
 	margin-right: auto;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	border: 1px solid black;
- 		color: rgb(112,170,239);
- 		background-color: rgb(2, 51, 109);
+	border: 2px solid black;
+ 		color: black;
+ 		background-color: rgb(127,144,169);
+ 		font-size: 24px;
  		
 }
 
@@ -103,14 +105,14 @@ p{
 }
 
 #Chicken{
-	background-color: rgb(197,43,71);
+	background-color: rgb(248,133,138);
 
 }
 
 #Beef{
-	background-color: rgb(247,233,69);
+	background-color: rgb(197,43,71);
 
 }
 #Sushi{
-	background-color: rgb(197,43,71);
+	background-color: rgb(247,233,69);
 }
