@@ -11,6 +11,8 @@ body{
 	background-color: rgb(280,250,40);
 	color:black;
 	font-weight: 20;
+	position: relative;
+	left: 300px;
 
 }
 
