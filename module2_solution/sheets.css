@@ -7,8 +7,8 @@ body{
 	text-align:center;
 }
 .dish{
-	text-align: right; 
-	background-color: rgb(280,20,40);
+	width:30%;
+	background-color: rgb(280,250,40);
 	color:black;
 	font-weight: 20;
 
